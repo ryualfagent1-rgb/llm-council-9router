@@ -1,4 +1,4 @@
-# LLM Council
+# LLM Council (9Router Gateway Edition)
 
 ## Vibe Code Alert
 
