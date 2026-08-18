@@ -1,0 +1,6 @@
+.env
+.venv/
+node_modules/
+data/conversations/
+uv.lock
+__pycache__/
